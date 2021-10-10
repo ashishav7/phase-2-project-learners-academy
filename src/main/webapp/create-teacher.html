@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+	<form action="create-teacher" method="post">
+		<fieldset><legend>Teacher Details</legend>
+			Name <input type="text" name="teacher"  id="teacher" required>	<br/>
+			Rating (On a scale of 1-10)<input type="number" name="rating"  id="rating" required>	<br/>
+			Specialization <input type="text" name="specialization"  id="specialization" required>	<br/>
+		</fieldset>
+		<fieldset>
+			<legend>Subject Details</legend>
+			Subject Name <input type="text" name="subject"  id="subject" required>	
+			Subject Code <input type="text" name="subjectCode"  id="subjectCode" required>	<br/>
+		</fieldset>
+		<input type="submit" value="Submit"/>
+	</form>
+</body>
+</html>
