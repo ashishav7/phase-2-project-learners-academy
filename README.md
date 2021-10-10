@@ -44,7 +44,8 @@ Sprint 1 (8 days)
 	
 ---
 
-->3. Project git Repositories -> 
+->3. Project git Repositories ->
+---
 	1. link : https://github.com/ashishav7/phase-2-project-learners-academy.git
 	2. clone git : git clone https://github.com/ashishav7/phase-2-project-learners-academy.git
 	
