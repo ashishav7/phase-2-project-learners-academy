@@ -68,7 +68,8 @@ Sprint 1 (8 days)
 
 	Directory Structure:
   ---
-  ![Directory Structure](screenshots/mainscreen.jpg)
+  ![Directory Structure1](screenshots/directory1.jpg)
+  ![Directory Structure1](screenshots/directory2.jpg)
   ---
   -----
 
