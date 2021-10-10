@@ -54,14 +54,14 @@ Sprint 1 (8 days)
 	4.1. Clone Project
 		clone git : git clone https://github.com/ashishav7/lockedMe.git
 	4.2. Database Creation
-    create a database in MYSQL Workbench with name "learners_academy2"
-  4.3. Modifying "hibernate.cfg.xml"
-    change hibernate.connection.username property to the username of the connection username of your SQL connection
-    change hibernate.connection.password property to the password of the connection username of your SQL connection
-  4.4. Install Tomcat Server
-    Install the tomcat server9.0
-  4.5. Run Project 
-  right click on project name  -> run as -> Run On Server
+    		create a database in MYSQL Workbench with name "learners_academy2"
+  	4.3. Modifying "hibernate.cfg.xml"
+		change hibernate.connection.username property to the username of the connection username of your SQL connection
+		change hibernate.connection.password property to the password of the connection username of your SQL connection
+  	4.4. Install Tomcat Server
+    		Install the tomcat server9.0
+  	4.5. Run Project 
+  		right click on project name  -> run as -> Run On Server
 
 -> Source code files
 
