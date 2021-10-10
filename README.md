@@ -85,7 +85,11 @@ Sprint 1 (8 days)
 	---
 	**Create Class Screen**
 	--- 
-	![Add Class](screenshots/add class.jpg)
+	![Add Class](screenshots/addclass.jpg)
+	---
+	**Add Class Form** 
+	--- 
+	![Add Class](screenshots/addclassForm.jpg)
 	---
 	
 	**List**
@@ -95,5 +99,5 @@ Sprint 1 (8 days)
 	
 	**Fetch Credentials**
 	---
-	![Update Form](screenshots/update form.jpg)
+	![Update Form](screenshots/updateform.jpg)
 	---
