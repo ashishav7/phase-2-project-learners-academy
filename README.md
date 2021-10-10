@@ -15,7 +15,7 @@
 		
 -> 2. Process Flow Chart
 ---
-![Process Flow Chart](screenshots/architechture diagram.jpg)
+![Process Flow Chart](screenshots/architechturediagram.jpg)
 
 ---
 
@@ -97,7 +97,7 @@ Sprint 1 (8 days)
 	![List](screenshots/list.jpg)
 	---
 	
-	**Fetch Credentials**
+	**Update Form**
 	---
 	![Update Form](screenshots/updateform.jpg)
 	---
