@@ -59,7 +59,7 @@ Sprint 1 (8 days)
 ->4. How to run poject:
 	
 	4.1. Clone Project
-		clone git : git clone https://github.com/ashishav7/lockedMe.git
+		clone git : git clone https://github.com/ashishav7/phase-2-project-learners-academy.git
 	4.2. Database Creation
     		create a database in MYSQL Workbench with name "learners_academy2"
   	4.3. Modifying "hibernate.cfg.xml"
