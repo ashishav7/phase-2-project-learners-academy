@@ -8,14 +8,14 @@
 			-> Exception Handling
 			-> HTML
 			-> Maven
-      -> Hibernate
-      -> SQL
-      -> Tomcat Server
+      			-> Hibernate
+      			-> SQL
+      			-> Tomcat Server
 ---
 		
 -> 2. Process Flow Chart
 ---
-![Process Flow Chart](screenshots/process-flow.jpg)
+![Process Flow Chart](screenshots/architechture diagram.jpg)
 
 ---
 
@@ -75,22 +75,25 @@ Sprint 1 (8 days)
 
 5. Some Output Screenshots
 	
-	**Home Screen**
+	**Login Screen**
+	--- 
+	![Login Screen](screenshots/login.jpg)
 	---
-	![Process Flow Chart](screenshots/mainscreen.jpg)
+	**Home Screen**	
+	--- 
+	![Home Screen](screenshots/home.jpg)
+	---
+	**Create Class Screen**
+	--- 
+	![Add Class](screenshots/add class.jpg)
 	---
 	
-	**Logged In Screen**
+	**List**
 	---
-	![Process Flow Chart](screenshots/loginsuccess.jpg)
-	---
-	
-	**Insert Credentials**
-	---
-	![Process Flow Chart](screenshots/insertcreds.jpg)
+	![List](screenshots/list.jpg)
 	---
 	
 	**Fetch Credentials**
 	---
-	![Process Flow Chart](screenshots/fetchCredentials.jpg)
+	![Update Form](screenshots/update form.jpg)
 	---
