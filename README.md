@@ -28,7 +28,7 @@
 	4. As an admin I want to create a subject,update a subject, delete a subject and see(list) the subjects that are present.
 	5. As a dev I want to build login page so that we can authenticate the admin.
 	6. As a dev create CRUD operations for Class,Student,Subject and Teacher.
-  7. As a dev create a database in SQL.
+  	7. As a dev create a database in SQL.
 
 ---
 
@@ -40,7 +40,7 @@ Sprint 1 (8 days)
 	4. As an admin I want to create a subject,update a subject, delete a subject and see(list) the subjects that are present.
 	5. As a dev I want to build login page so that we can authenticate the admin.
 	6. As a dev create CRUD operations for Class,Student,Subject and Teacher.
-  7. As a dev create a database in SQL.
+  	7. As a dev create a database in SQL.
 	
 ---
 
