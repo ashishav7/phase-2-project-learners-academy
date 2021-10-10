@@ -18,6 +18,12 @@
 ![Process Flow Chart](screenshots/architechturediagram.jpg)
 
 ---
+-> 2. Mapping Chart
+--- 
+![Mapping Chart](screenshots/mapping.jpg)
+
+---
+
 
 -> 2. Project Users Stories : ( Agile and Scrum )
 ---
